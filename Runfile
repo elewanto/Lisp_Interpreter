@@ -1,0 +1,1 @@
+./Interpreter < [input file] > [output file]
